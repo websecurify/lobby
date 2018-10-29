@@ -10,6 +10,7 @@ Websecurify is constantly expanding. Checkout some of our brands.
 
 * [SecApps](https://secapps.com) - Security Tools Market
 * [WebReaver](https://webreaver.com) - Web Application Security Scanner for macOS and iOS
+* [ProxyApp](https://proxyapp.io) - Web Debugging Proxy for macOS
 
 ## Where To Find Us
 
