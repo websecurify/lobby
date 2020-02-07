@@ -2,13 +2,15 @@
 
 # Websecurify
 
-Websecurify is a London based started with a global reach. With our small but ambitious team, we believe that we can have an impact on the security sector by giving the right tools to everyone with either professional or personal interest in the field.
+Websecurify is a London based cyber security startup with a global reach. With our small but ambitious team, we believe that we can have an impact by giving the right tools to everyone with either professional or personal interest in the field.
 
 ## Our Brands
 
 Websecurify is constantly expanding. Checkout some of our brands.
 
-* [SecApps](https://secapps.com) - Security Tools Market
+* [SecApps](https://secapps.com) - The Platform for Security Tools & Services
+* [Cohesion](https://cohesion.sh) - Web Security automation tooling for Continuous Integration pipelines
+* [Webreaver](https://webreaver.com) - Desktop Web Application Security Scanner for Mac, Windows and Linux
 
 ## Where To Find Us
 
