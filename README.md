@@ -8,9 +8,9 @@ Websecurify is a London based cyber security startup with a global reach. With o
 
 Websecurify is constantly expanding. Checkout some of our brands.
 
-* @secappshq [SecApps](https://secapps.com) - The Platform for Security Tools & Services
-* @bountypage [BountyPage](https://bountypage.com) - The Platform for Bug Bounty Programs
-* @cohesionsh [Cohesion](https://cohesion.sh) - Web Security automation tooling for Continuous Integration pipelines
+* [@secappshq](https://github.com/secappshq) [SecApps](https://secapps.com) - The Platform for Security Tools & Services
+* [@bountypage](https://github.com/bountypage) [BountyPage](https://bountypage.com) - The Platform for Bug Bounty Programs
+* [@cohesionsh](https://github.com/cohesions) [Cohesion](https://cohesion.sh) - Web Security automation tooling for Continuous Integration pipelines
 
 ## Where To Find Us
 
