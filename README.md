@@ -2,7 +2,7 @@
 
 # Websecurify
 
-Websecurify is a London based cyber security startup with a global reach. With our small but ambitious team, we believe that we can have an impact by giving the right tools to everyone with either professional or personal interest in the field.
+[Websecurify](https://websecurify.com) is a London based cyber security startup with a global reach. With our small but ambitious team, we believe that we can have an impact by giving the right tools to everyone with either professional or personal interest in the field.
 
 ## Our Brands
 
